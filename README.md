@@ -1,16 +1,14 @@
-### Hi there 👋
+# Привет! 👋
 
-<!--
-**Xereq-X/Xereq-X** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🇷🇺 Я из России, мне 15 y.o, и я разработчик.
 
-Here are some ideas to get you started:
+## 🚀 Мои навыки:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **Языки программирования:** Python, C#, VB .NET, Lua
+* **Веб-разработка:** HTML, CSS, JavaScript
+
+🧠 Помимо кода, я интересуюсь психологией.
+
+## 🤝 Давай сотрудничать!
+
+Я всегда открыт к новым проектам и знакомствам.
