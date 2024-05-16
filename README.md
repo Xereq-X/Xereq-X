@@ -1,14 +1,20 @@
-# Привет! 👋
+# Hey there! 👋
 
-🇷🇺 Я из России, мне 15 y.o, и я разработчик.
+I'm a 15 y.o. coding enthusiast based in Russia.
 
-## 🚀 Мои навыки:
+## 🚀 What I Do:
 
-* **Языки программирования:** Python, C#, VB .NET, Lua
-* **Веб-разработка:** HTML, CSS, JavaScript
+I'm passionate about exploring the world of software development and crafting digital experiences.
 
-🧠 Помимо кода, я интересуюсь психологией.
+## 💻 Tech Stack:
 
-## 🤝 Давай сотрудничать!
+* **Programming Languages:** Python, C#, VB .NET, Lua
+* **Web Development:** HTML, CSS, JavaScript
 
-Я всегда открыт к новым проектам и знакомствам.
+## 🧠 Beyond the Code:
+
+When I'm not coding, I'm diving into the fascinating world of psychology.
+
+## 🤝 Let's Connect!
+
+I'm always open to collaborating on exciting projects. Feel free to reach out!
